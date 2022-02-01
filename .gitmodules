@@ -1,0 +1,6 @@
+[submodule "01_vulkantutorial"]
+	path = 01_vulkantutorial
+	url = https://github.com/Overv/VulkanTutorial
+[submodule "02_intro2vulkan"]
+	path = 02_intro2vulkan
+	url = https://github.com/gametechdev/IntroductionToVulkan
