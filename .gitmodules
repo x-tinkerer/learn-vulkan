@@ -5,5 +5,5 @@
 	path = 02_intro2vulkan
 	url = https://github.com/gametechdev/IntroductionToVulkan
 [submodule "01_tutorial_cn"]
-	path = 01_tutorial_cn
+	path = 01_vulkantutorial_cn
 	url = https://github.com/fangcun010/VulkanTutorialCN
