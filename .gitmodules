@@ -7,3 +7,6 @@
 [submodule "01_tutorial_cn"]
 	path = 01_vulkantutorial_cn
 	url = https://github.com/fangcun010/VulkanTutorialCN
+[submodule "03_amd-open-vulkan-driver"]
+	path = 03_amd-open-vulkan-driver
+	url = https://github.com/GPUOpen-Drivers/AMDVLK
