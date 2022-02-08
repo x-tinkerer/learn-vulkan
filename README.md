@@ -18,3 +18,4 @@
 - [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan)
 - [如何正确的入门Vulkan？](https://www.zhihu.com/question/424430509)
 - [Vulkan 学习指南](https://www.zhihu.com/column/c_1033291907413250048)
+- [Vulkan 学习笔记](https://gavinkg.github.io/ILearnVulkanFromScratch-CN/)
